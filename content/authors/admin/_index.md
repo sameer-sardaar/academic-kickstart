@@ -23,7 +23,7 @@ bio: My research interests include machine learning, genomics and network scienc
 interests:
 - Machine Learning
 - Graph Neural Networks
-- Medical and Computational Genomics
+- Computational Genomics & Personalized Medicine
 - Network Theory
 
 education:
@@ -64,7 +64,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -74,4 +74,4 @@ user_groups:
 
 I am a Data Scientist at Velan Inc and also a master's student in Genomics at McGill University under supervision of Dr. Yannis Trakadis. My research is interdesciplinary across machine learning and genomics and therefore collaborate closely with faculty members from machine learning and genomics.
 
-My background is mainly in Mathematics, but I also have extensive coursework in computer science and economics. I have been working as a full time Data Scientist since 2016 at Velan Inc where I apply ML and data science to decipher various business, engineering and supply chain problems. 
+My background is mainly in Mathematics, but I also have extensive coursework in computer science and economics. I have been working as a full time Data Scientist since 2016 at Velan Inc where I apply ML and data science to decipher various business, engineering and supply chain problems.
