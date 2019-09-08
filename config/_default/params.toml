@@ -5,7 +5,7 @@
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "dark"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -21,7 +21,7 @@ font = ""
 font_size = "s"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Sameer Sardaar"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
